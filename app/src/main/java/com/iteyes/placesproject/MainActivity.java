@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(view.getContext(), "Your nearest room", Toast.LENGTH_SHORT).show();
             }
         });
-
+//
         wayfinding = (Button)findViewById(R.id.OutdoorNavigating);
 
         wayfinding.setOnClickListener(new View.OnClickListener() {
