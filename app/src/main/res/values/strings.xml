@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Easy Navigation</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="scan_room">Scan room</string>
+    <string name="Search">Search For Rooms</string>
+    <string name="google_maps_api"> AIzaSyC6WnVMAgsSsVMcUx0iY5bHcfSEAkGyoAQ</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spinner_prompt">Select Building</string>
+
+    <string name="warning">Warning</string>
+    <string name="dialog_message">Building name has less than 4 characters. Proceed?</string>
+</resources>

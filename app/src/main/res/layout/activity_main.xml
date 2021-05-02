@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ntunice"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="470dp"
+        android:layout_marginLeft="150dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="104dp"
+            android:layout_marginBottom="8dp"
+            android:src="@mipmap/floorplan" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/AddRoomButton"
+            android:id="@+id/beaconwhere"
+            android:text="   Rooms   "
+            style="@style/CategoryStyle"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="150dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="104dp"
+            android:layout_marginBottom="8dp"
+            android:src="@mipmap/finding" />
+
+        <Button
+            android:id="@+id/OutdoorNavigating"
+            style="@style/CategoryStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:background="@color/WayfindingButton"
+            android:text="Wayfinding" />
+
+    </LinearLayout>
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginLeft="10dp"-->
+<!--        android:layout_marginTop="470dp"-->
+<!--        android:orientation="vertical">-->
+
+<!--        <ImageView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="104dp"-->
+<!--            android:layout_marginBottom="8dp"-->
+<!--            android:src="@mipmap/sg" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/navigating"-->
+<!--            style="@style/CategoryStyle"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@color/mapButton"-->
+<!--            android:text="Outdoor Map"-->
+<!--            android:textSize="18dp" />-->
+
+<!--    </LinearLayout>-->
+
+    <!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:text="Welcome to Easy Navigation!"-->
+<!--        style="@style/CategoryStyle"/>-->
+
+</RelativeLayout>
