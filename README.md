@@ -37,3 +37,6 @@ The starting location of the user can either be indoors or outdoors, hence locat
 tracking using GPS and BLE is required. The main activity of the app needs to provide 
 both functions where Wayfinding displays the outdoor location of the user and Rooms 
 tell the user which room they are at.
+
+**Architecture of app**  
+![image](https://github.com/p23Jacob75/Indoor-proximity-tracking/assets/83536201/2074ffb1-929c-4c17-bb05-db925dbec965)
