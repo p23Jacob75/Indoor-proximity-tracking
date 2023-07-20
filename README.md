@@ -8,7 +8,7 @@ Indoor BLE location estimation and in-app notification capabilities. The applica
 is built using Android Studio platform via Java and XML programming where the functions 
 of GPS outdoor navigation and Indoor Localization and overall app layout be presented. 
 
-**Bluetooth Low Energy**
+**Bluetooth Low Energy**  
 Bluetooth Low Energy is designed based on Bluetooth but uses of the least power for 
 communications. BLE can operate on devices that uses button-cell batteries which can 
 operate its iBeacon for a few months or even years. BLE achieves low power consumption 
@@ -21,7 +21,7 @@ Power usage: Very Low
 Cost: Low
 Coverage: More than 100m range is achievable
 
-**Estimote Proximity Beacons**
+**Estimote Proximity Beacons**  
 Estimote Proximity Beacons operates on either scanning mode or advertising mode. 
 When the beacon is on scanning mode, it is able to detect for BLE devices nearby 
 and update on the Cloud.
@@ -31,7 +31,7 @@ used to create their own apps using Estimote Cloud. From there, tags can be assi
 to each beacon which acts like a name or ID. This way we are able to program each 
 iBeacon individually.
 
-**Easy Navigation App overview**
+**Easy Navigation App overview**  
 The main idea for the app is to simulate a user finding a specific room in a building. 
 The starting location of the user can either be indoors or outdoors, hence location 
 tracking using GPS and BLE is required. The main activity of the app needs to provide 
