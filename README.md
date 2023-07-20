@@ -40,3 +40,8 @@ tell the user which room they are at.
 
 **Architecture of app**  
 ![image](https://github.com/p23Jacob75/Indoor-proximity-tracking/assets/83536201/2074ffb1-929c-4c17-bb05-db925dbec965)
+
+**App UI**  
+![image](https://github.com/p23Jacob75/Indoor-proximity-tracking/assets/83536201/0a2625c7-1f45-4a09-abf8-5bf17b01cdd4)
+![image](https://github.com/p23Jacob75/Indoor-proximity-tracking/assets/83536201/ad72e0e8-33ff-4a7c-b30e-68ad98a90fb3)
+![image](https://github.com/p23Jacob75/Indoor-proximity-tracking/assets/83536201/e715535a-b76c-4448-b722-6c39ff3b548f)
