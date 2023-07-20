@@ -1,7 +1,7 @@
 # Indoor-proximity-tracking
 This repository stores the code used for my final year project. 
 
-**Project description**
+**Project description**  
 This project applies some concepts of indoor localization and tracking algorithms to 
 develop a mobile application (Easy Navigation) with outdoor GPS location estimation, 
 Indoor BLE location estimation and in-app notification capabilities. The application 
